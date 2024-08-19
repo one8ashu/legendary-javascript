@@ -9,19 +9,19 @@
             f. Symbol
             g. BigInt
 
-    const score = 108;                  integer datatype
-    const scoreValue = 100;             integer datatype
-    const isLoggedIn = true;            boolean datatype
-    const outsideTemperature = null;    null datatype
-    let userEmail;                      undefined datatype
-    let userEmail = undefined;          undefined datatype
-    const id = Symbol('123');           symbols used in react
-    const anotherId = Symbol('123');
+        const score = 108;                  integer datatype
+        const scoreValue = 100;             integer datatype
+        const isLoggedIn = true;            boolean datatype
+        const outsideTemperature = null;    null datatype
+        let userEmail;                      undefined datatype
+        let userEmail = undefined;          undefined datatype
+        const id = Symbol('123');           symbols used in react
+        const anotherId = Symbol('123');
     
-    console.log(id === anotherId);
+        console.log(id === anotherId);
 
-    const bigNumber = 4454525474531234531n;
-    // without n at the last, it is int otherwise bigint
+        const bigNumber = 4454525474531234531n;
+        // without n at the last, it is int otherwise bigint
     
 
         2. Non-primitive datatypes/ reference types
